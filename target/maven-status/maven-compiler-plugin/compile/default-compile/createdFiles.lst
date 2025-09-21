@@ -1,0 +1,4 @@
+com\example\StudentGrade\dto\StudentRequest.class
+com\example\StudentGrade\StudentGradeApplication.class
+com\example\StudentGrade\controller\GradeController.class
+com\example\StudentGrade\dto\StudentResponse.class
